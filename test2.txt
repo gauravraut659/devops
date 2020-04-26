@@ -3,7 +3,3 @@ This is the file created for testing......
 This is the new Line added 
 
 THis is line 2
-
-One more line
-
-Another line
